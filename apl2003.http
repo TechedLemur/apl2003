@@ -1,0 +1,6 @@
+@apl2003_HostAddress = http://localhost:5083
+
+GET {{apl2003_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
